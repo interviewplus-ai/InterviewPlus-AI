@@ -8,7 +8,7 @@ Our platform is intended to serve various classifications, including software de
 
 ### Developers & Programmers
 
-- [PHP](#php)
+- [PHP](https://github.com/interviewplus-ai/php-interview-questions-and-answers/)
 - [Git](#git)
 - [Android](#android)
 - [AngularJS](#angularjs)
