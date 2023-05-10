@@ -1,8 +1,13 @@
-# Project Title
+# Most targeted tech interview questions and answers in 2023 <a href="https://interviewplus.ai/">InterviewPlus.AI</a>
 
-A brief description of the project.
+At Interview Plus, we think that every job candidate deserves the highest chance of success in their job interview. That's why we built a platform that gives job seekers the tools they need to prepare for IT job interviews.
+
+Our platform is intended to serve various classifications, including software developers, business analysts, quality assurance specialists, database administrators, network engineers, and many others. Many of these  questions are from actual users who confirmed that they were asked this during their interviews. We also provide live <a href="https://interviewplus.ai/mock-interviews/create">mock interviews</a> that are evaluated using AI technologies real-time.
+
+## Table of Contents
 
 ### Developers & Programmers
+
 - [PHP](#php)
 - [Git](#git)
 - [Android](#android)
@@ -31,6 +36,7 @@ A brief description of the project.
 - [Laravel](#laravel)
 
 ### Database Administration
+
 - [Cassandra](#cassandra)
 - [Microsoft Access](#microsoft-access)
 - [MongoDB](#mongodb)
@@ -57,6 +63,7 @@ A brief description of the project.
 - [Database monitoring](#database-monitoring)
 
 ### Business & System Analysts
+
 - [Requirements gathering](#requirements-gathering)
 - [Business process analysis](#business-process-analysis)
 - [Data analysis](#data-analysis)
@@ -72,6 +79,7 @@ A brief description of the project.
 - [Change management](#change-management)
 
 ### Network Administration
+
 - [Network architecture](#network-architecture)
 - [Network security](#network-security)
 - [Network protocols](#network-protocols)
@@ -92,6 +100,7 @@ A brief description of the project.
 - [Network compliance](#network-compliance)
 
 ### Product & Project Management
+
 - [Agile methodologies and frameworks](#agile-methodologies-and-frameworks)
 - [Product development process](#product-development-process)
 - [Project management methodologies](#project-management-methodologies)
@@ -107,6 +116,7 @@ A brief description of the project.
 - [Product and project management tools](#product-and-project-management-tools)
 
 ### Testing & Quality Assurance
+
 - [Testing fundamentals](#testing-fundamentals)
 - [Test design and planning](#test-design-and-planning)
 - [Test automation](#test-automation)
@@ -122,6 +132,7 @@ A brief description of the project.
 - [Test management tools](#test-management-tools)
 
 ### Cyber Security & Compliance
+
 - [Security Frameworks](#security-frameworks)
 - [Compliance Regulations](#compliance-regulations)
 - [Risk Assessments](#risk-assessments)
@@ -141,6 +152,7 @@ A brief description of the project.
 - [Access Control Systems](#access-control-systems)
 
 ### Management & Leadership
+
 - [Communication Skills](#communication-skills)
 - [Conflict Resolution](#conflict-resolution)
 - [Team Building](#team-building)
@@ -154,14 +166,8 @@ A brief description of the project.
 - [Industry Knowledge](#industry-knowledge)
 - [Management Tools and Techniques](#management-tools-and-techniques)
 
-## Installation
-Describe how to install the project, along with any required dependencies.
-
-## Usage
-Provide instructions and examples for how to use the project.
-
 ## Contributing
-Explain how others can contribute to the project, including any guidelines for pull requests and code reviews.
+We welcome contributions from our users to help make this resource as comprehensive and useful as possible. If you have been recently interviewed and encountered a question that is not currently covered on our website, feel free to suggest it as a new question. Your contributions will be added to our platform, and we will make sure to credit you for your contributions. We appreciate your help in making our platform a valuable tool for all job seekers.
 
-## PHP
-Specify the license under which the project is released.
+## License
+MIT License
