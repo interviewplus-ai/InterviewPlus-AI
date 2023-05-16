@@ -10,7 +10,7 @@ Our platform is intended to serve various classifications, including software de
 
 - [PHP](https://github.com/interviewplus-ai/php-interview-questions-and-answers/)
 - [Git](https://github.com/interviewplus-ai/git-interview-questions-and-answers)
-- [Android](#android)
+- [Android](https://github.com/interviewplus-ai/android-interview-questions-and-answers)
 - [AngularJS](#angularjs)
 - [C++](#c)
 - [C#](#c-1)
