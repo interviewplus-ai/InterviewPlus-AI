@@ -14,7 +14,7 @@ Our platform is intended to serve various classifications, including software de
 - [AngularJS](https://github.com/interviewplus-ai/angularJS-interview-questions-and-answers)
 - [C++](https://github.com/interviewplus-ai/c-plus-plus-interview-questions-and-answers)
 - [C#](https://github.com/interviewplus-ai/c-sharp-interview-questions-and-answers)
-- [.NET](#net)
+- [.NET](https://github.com/interviewplus-ai/.net-interview-questions-and-answers)
 - [CSS](#css)
 - [Django](#django)
 - [Docker](#docker)
