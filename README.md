@@ -15,7 +15,7 @@ Our platform is intended to serve various classifications, including software de
 - [C++](https://github.com/interviewplus-ai/c-plus-plus-interview-questions-and-answers)
 - [C#](https://github.com/interviewplus-ai/c-sharp-interview-questions-and-answers)
 - [.NET](https://github.com/interviewplus-ai/.net-interview-questions-and-answers)
-- [CSS](#css)
+- [CSS](https://github.com/interviewplus-ai/css-interview-questions-and-answers)
 - [Django](#django)
 - [Docker](#docker)
 - [Serverless](#serverless)
