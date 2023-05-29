@@ -23,7 +23,7 @@ Our platform is intended to serve various classifications, including software de
 - [Ionic](https://github.com/interviewplus-ai/ionic-interview-questions-and-answers)
 - [iOS](https://github.com/interviewplus-ai/ios-interview-questions-and-answers)
 - [Java](https://github.com/interviewplus-ai/java-interview-questions-and-answers)
-- [JavaScript](#javascript)
+- [JavaScript](https://github.com/interviewplus-ai/javascript-interview-questions-and-answers)
 - [jQuery](#jquery)
 - [Next.js](#nextjs)
 - [NodeJS](#nodejs)
