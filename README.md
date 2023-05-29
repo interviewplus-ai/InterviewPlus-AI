@@ -21,7 +21,7 @@ Our platform is intended to serve various classifications, including software de
 - [Serverless](https://github.com/interviewplus-ai/serverless-interview-questions-and-answers)
 - [HTML](https://github.com/interviewplus-ai/html-interview-questions-and-answers)
 - [Ionic](https://github.com/interviewplus-ai/ionic-interview-questions-and-answers)
-- [iOS](#ios)
+- [iOS](https://github.com/interviewplus-ai/ios-interview-questions-and-answers)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [jQuery](#jquery)
