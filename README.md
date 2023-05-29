@@ -18,7 +18,7 @@ Our platform is intended to serve various classifications, including software de
 - [CSS](https://github.com/interviewplus-ai/css-interview-questions-and-answers)
 - [Django](https://github.com/interviewplus-ai/django-interview-questions-and-answers)
 - [Docker](https://github.com/interviewplus-ai/docker-interview-questions-and-answers)
-- [Serverless](#serverless)
+- [Serverless](https://github.com/interviewplus-ai/serverless-interview-questions-and-answers)
 - [HTML](#html)
 - [Ionic](#ionic)
 - [iOS](#ios)
