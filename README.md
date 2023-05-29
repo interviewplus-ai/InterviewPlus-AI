@@ -26,7 +26,7 @@ Our platform is intended to serve various classifications, including software de
 - [JavaScript](https://github.com/interviewplus-ai/javascript-interview-questions-and-answers)
 - [jQuery](https://github.com/interviewplus-ai/jquery-interview-questions-and-answers)
 - [Next.js](https://github.com/interviewplus-ai/next.js-interview-questions-and-answers)
-- [NodeJS](#nodejs)
+- [NodeJS](https://github.com/interviewplus-ai/node.js-interview-questions-and-answers)
 - [Objective C](#objective-c)
 - [Python](#python)
 - [ReactJS](#reactjs)
