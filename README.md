@@ -20,7 +20,7 @@ Our platform is intended to serve various classifications, including software de
 - [Docker](https://github.com/interviewplus-ai/docker-interview-questions-and-answers)
 - [Serverless](https://github.com/interviewplus-ai/serverless-interview-questions-and-answers)
 - [HTML](https://github.com/interviewplus-ai/html-interview-questions-and-answers)
-- [Ionic](#ionic)
+- [Ionic](https://github.com/interviewplus-ai/ionic-interview-questions-and-answers)
 - [iOS](#ios)
 - [Java](#java)
 - [JavaScript](#javascript)
