@@ -33,7 +33,7 @@ Our platform is intended to serve various classifications, including software de
 - [Ruby](https://github.com/interviewplus-ai/ruby-interview-questions-and-answers)
 - [VueJs](https://github.com/interviewplus-ai/vue.js-interview-questions-and-answers)
 - [TypeScript](https://github.com/interviewplus-ai/typescript-interview-questions-and-answers)
-- [Laravel](#laravel)
+- [Laravel](https://github.com/interviewplus-ai/laravel-interview-questions-and-answers)
 
 ### Database Administration
 
