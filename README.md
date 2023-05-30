@@ -29,7 +29,7 @@ Our platform is intended to serve various classifications, including software de
 - [NodeJS](https://github.com/interviewplus-ai/node.js-interview-questions-and-answers)
 - [Objective C](https://github.com/interviewplus-ai/objective-c-interview-questions-and-answers)
 - [Python](https://github.com/interviewplus-ai/python-interview-questions-and-answers)
-- [ReactJS](#reactjs)
+- [ReactJS](https://github.com/interviewplus-ai/react.js-interview-questions-and-answers)
 - [Ruby](#ruby)
 - [VueJs](#vuejs)
 - [TypeScript](#typescript)
