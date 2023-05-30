@@ -31,7 +31,7 @@ Our platform is intended to serve various classifications, including software de
 - [Python](https://github.com/interviewplus-ai/python-interview-questions-and-answers)
 - [ReactJS](https://github.com/interviewplus-ai/react.js-interview-questions-and-answers)
 - [Ruby](https://github.com/interviewplus-ai/ruby-interview-questions-and-answers)
-- [VueJs](#vuejs)
+- [VueJs](https://github.com/interviewplus-ai/vue.js-interview-questions-and-answers)
 - [TypeScript](#typescript)
 - [Laravel](#laravel)
 
