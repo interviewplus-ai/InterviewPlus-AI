@@ -45,7 +45,7 @@ Our platform is intended to serve various classifications, including software de
 - [Postgres](https://github.com/interviewplus-ai/postgres-interview-questions-and-answers)
 - [SQL](https://github.com/interviewplus-ai/sql-interview-questions-and-answers)
 - [SQL Lite](https://github.com/interviewplus-ai/sqlite-interview-questions-and-answers)
-- [Cloud-based Databases](#cloud-based-databases)
+- [Cloud-based Databases](https://github.com/interviewplus-ai/cloud-based-databases-interview-questions-and-answers)
 - [Database Security](#database-security)
 - [Database Performance Tuning](#database-performance-tuning)
 - [Big Data](#big-data)
