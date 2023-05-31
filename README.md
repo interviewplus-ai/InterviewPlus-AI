@@ -37,7 +37,7 @@ Our platform is intended to serve various classifications, including software de
 
 ### Database Administration
 
-- [Cassandra](#cassandra)
+- [Cassandra](https://github.com/interviewplus-ai/cassandra-interview-questions-and-answers)
 - [Microsoft Access](#microsoft-access)
 - [MongoDB](#mongodb)
 - [MySQL](#mysql)
