@@ -39,7 +39,7 @@ Our platform is intended to serve various classifications, including software de
 
 - [Cassandra](https://github.com/interviewplus-ai/cassandra-interview-questions-and-answers)
 - [Microsoft Access](https://github.com/interviewplus-ai/microsoft-access-interview-questions-and-answers)
-- [MongoDB](#mongodb)
+- [MongoDB](https://github.com/interviewplus-ai/mongodb-interview-questions-and-answers)
 - [MySQL](#mysql)
 - [Oracle](#oracle)
 - [Postgres](#postgres)
