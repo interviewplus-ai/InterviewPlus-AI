@@ -41,7 +41,7 @@ Our platform is intended to serve various classifications, including software de
 - [Microsoft Access](https://github.com/interviewplus-ai/microsoft-access-interview-questions-and-answers)
 - [MongoDB](https://github.com/interviewplus-ai/mongodb-interview-questions-and-answers)
 - [MySQL](https://github.com/interviewplus-ai/mysql-interview-questions-and-answers)
-- [Oracle](#oracle)
+- [Oracle](https://github.com/interviewplus-ai/oracle-interview-questions-and-answers)
 - [Postgres](#postgres)
 - [SQL](#sql)
 - [SQL Lite](#sql-lite)
