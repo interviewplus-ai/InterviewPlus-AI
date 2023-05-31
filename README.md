@@ -42,7 +42,7 @@ Our platform is intended to serve various classifications, including software de
 - [MongoDB](https://github.com/interviewplus-ai/mongodb-interview-questions-and-answers)
 - [MySQL](https://github.com/interviewplus-ai/mysql-interview-questions-and-answers)
 - [Oracle](https://github.com/interviewplus-ai/oracle-interview-questions-and-answers)
-- [Postgres](#postgres)
+- [Postgres](https://github.com/interviewplus-ai/postgres-interview-questions-and-answers)
 - [SQL](#sql)
 - [SQL Lite](#sql-lite)
 - [Cloud-based Databases](#cloud-based-databases)
