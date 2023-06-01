@@ -68,7 +68,7 @@ Our platform is intended to serve various classifications, including software de
 - [Business process analysis](https://github.com/interviewplus-ai/business-process-analysis-interview-questions-and-answers)
 - [Data analysis](https://github.com/interviewplus-ai/data-analysis-interview-questions-and-answers)
 - [Agile methodology](https://github.com/interviewplus-ai/agile-methodology-interview-questions-and-answers)
-- [Stakeholder management](#stakeholder-management)
+- [Stakeholder management](https://github.com/interviewplus-ai/stakeholder-management-interview-questions-and-answers)
 - [Use case analysis](#use-case-analysis)
 - [Project management](#project-management)
 - [Data modeling](#data-modeling)
