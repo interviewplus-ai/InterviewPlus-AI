@@ -65,7 +65,7 @@ Our platform is intended to serve various classifications, including software de
 ### Business & System Analysts
 
 - [Requirements gathering](https://github.com/interviewplus-ai/requirements-gathering-interview-questions-and-answers)
-- [Business process analysis](#business-process-analysis)
+- [Business process analysis](https://github.com/interviewplus-ai/business-process-analysis-interview-questions-and-answers)
 - [Data analysis](#data-analysis)
 - [Agile methodology](#agile-methodology)
 - [Stakeholder management](#stakeholder-management)
