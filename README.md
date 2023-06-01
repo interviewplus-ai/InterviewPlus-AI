@@ -58,7 +58,7 @@ Our platform is intended to serve various classifications, including software de
 - [Database migration](https://github.com/interviewplus-ai/database-migration-interview-questions-and-answers)
 - [Database virtualization](https://github.com/interviewplus-ai/database-virtualization-interview-questions-and-answers)
 - [Database auditing](https://github.com/interviewplus-ai/database-auditing-interview-questions-and-answers)
-- [Data warehousing](#data-warehousing)
+- [Data warehousing](https://github.com/interviewplus-ai/data-warehousing-interview-questions-and-answers)
 - [In-memory databases](#in-memory-databases)
 - [Database monitoring](#database-monitoring)
 
