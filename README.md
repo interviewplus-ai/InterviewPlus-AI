@@ -59,7 +59,7 @@ Our platform is intended to serve various classifications, including software de
 - [Database virtualization](https://github.com/interviewplus-ai/database-virtualization-interview-questions-and-answers)
 - [Database auditing](https://github.com/interviewplus-ai/database-auditing-interview-questions-and-answers)
 - [Data warehousing](https://github.com/interviewplus-ai/data-warehousing-interview-questions-and-answers)
-- [In-memory databases](#in-memory-databases)
+- [In-memory databases](https://github.com/interviewplus-ai/in-memory-databases-interview-questions-and-answers)
 - [Database monitoring](#database-monitoring)
 
 ### Business & System Analysts
