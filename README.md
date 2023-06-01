@@ -54,7 +54,7 @@ Our platform is intended to serve various classifications, including software de
 - [Database as a service (DBaaS)](https://github.com/interviewplus-ai/database-as-a-service-dbaas-interview-questions-and-answers)
 - [Data replication](https://github.com/interviewplus-ai/data-replication-interview-questions-and-answers)
 - [Disaster recovery](https://github.com/interviewplus-ai/disaster-recovery-interview-questions-and-answers)
-- [Database consolidation](#database-consolidation)
+- [Database consolidation](https://github.com/interviewplus-ai/database-consolidation-interview-questions-and-answers)
 - [Database migration](#database-migration)
 - [Database virtualization](#database-virtualization)
 - [Database auditing](#database-auditing)
