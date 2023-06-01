@@ -52,7 +52,7 @@ Our platform is intended to serve various classifications, including software de
 - [Data privacy and compliance](https://github.com/interviewplus-ai/data-privacy-and-compliance-interview-questions-and-answers)
 - [Database Automation](https://github.com/interviewplus-ai/database-automation-interview-questions-and-answers)
 - [Database as a service (DBaaS)](https://github.com/interviewplus-ai/database-as-a-service-dbaas-interview-questions-and-answers)
-- [Data replication](#data-replication)
+- [Data replication](https://github.com/interviewplus-ai/data-replication-interview-questions-and-answers)
 - [Disaster recovery](#disaster-recovery)
 - [Database consolidation](#database-consolidation)
 - [Database migration](#database-migration)
